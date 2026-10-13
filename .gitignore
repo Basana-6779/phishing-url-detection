@@ -20,22 +20,3 @@ env/
 # Temporary files
 *.log
 .DS_Store
-
-# Python virtual environments
-.venv/
-.venv*/
-venv/
-env/
-
-# Python cache files
-__pycache__/
-*.py[cod]
-
-# Environment variables and secrets
-.env
-.env.*
-
-# IDE and temporary files
-.vscode/
-*.log
-.DS_Store
