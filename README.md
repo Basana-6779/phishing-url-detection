@@ -341,14 +341,6 @@ Contributions are welcome.
 
 ---
 
-# 👨‍💻 Author
-
-**Aragala Govardhan Reddy**
-
-🔗 GitHub: https://github.com/ARAGALAGOVARDHANREDDY
-
----
-
 # ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
